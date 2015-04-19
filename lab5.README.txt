@@ -1,1 +1,4 @@
-name, date, description
+Luke Shaw, 4/19/2015, 
+
+Using the shape from lab 3 I created a plane for the shadow to be projected on and a shadow map to cast the shadow
+onto the plane using a positioned light source.
